@@ -1,0 +1,16 @@
+{
+	"auth": {
+		"s3demo5605b3aa": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	},
+	"storage": {
+		"s3demo": {
+			"service": "S3",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
