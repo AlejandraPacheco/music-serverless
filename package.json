@@ -16,6 +16,9 @@
     "parcel-bundler": "^1.12.4"
   },
   "dependencies": {
-    "aws-amplify": "^3.3.3"
+    "aws-amplify": "^3.4.3",
+    "aws-sdk": "^2.1388.0",
+    "axios": "^1.4.0",
+    "parcel": "^2.9.1"
   }
 }
